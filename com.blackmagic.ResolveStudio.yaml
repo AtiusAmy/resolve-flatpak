@@ -1,6 +1,5 @@
 ####
 # Flatpak Configuration for building DaVinci Resolve
-#
 ####
 app-id: com.blackmagic.ResolveStudio
 runtime: org.freedesktop.Platform
